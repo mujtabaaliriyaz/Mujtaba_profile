@@ -1,0 +1,28 @@
+*{
+    
+    font-size: 120%;
+    mix-blend-mode:darken;
+}
+body{
+    background-image: url(blue_abstract_background_310971.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+h1,h3{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+figure{
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    text-align-last: center;
+    font-size: 122%;
+}
+#info1{
+    margin-bottom: 0%;
+    
+}
